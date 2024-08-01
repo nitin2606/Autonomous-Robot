@@ -1,0 +1,15 @@
+/home/knight/autonomous_robot/install/cpp_code/share/ament_index/resource_index/package_run_dependencies/cpp_code
+/home/knight/autonomous_robot/install/cpp_code/share/ament_index/resource_index/parent_prefix_path/cpp_code
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/environment/ament_prefix_path.sh
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/environment/ament_prefix_path.dsv
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/environment/path.sh
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/environment/path.dsv
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/local_setup.bash
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/local_setup.sh
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/local_setup.zsh
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/local_setup.dsv
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/package.dsv
+/home/knight/autonomous_robot/install/cpp_code/share/ament_index/resource_index/packages/cpp_code
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/cmake/cpp_codeConfig.cmake
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/cmake/cpp_codeConfig-version.cmake
+/home/knight/autonomous_robot/install/cpp_code/share/cpp_code/package.xml

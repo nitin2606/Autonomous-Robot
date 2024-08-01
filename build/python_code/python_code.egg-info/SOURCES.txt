@@ -1,0 +1,15 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/python_code/python_code.egg-info/PKG-INFO
+../../build/python_code/python_code.egg-info/SOURCES.txt
+../../build/python_code/python_code.egg-info/dependency_links.txt
+../../build/python_code/python_code.egg-info/requires.txt
+../../build/python_code/python_code.egg-info/top_level.txt
+../../build/python_code/python_code.egg-info/zip-safe
+python_code/__init__.py
+resource/python_code
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
