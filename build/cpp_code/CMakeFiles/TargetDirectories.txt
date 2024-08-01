@@ -1,9 +1,0 @@
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/uninstall.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/cpp_code_uninstall.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/test.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/edit_cache.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/rebuild_cache.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/list_install_components.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/install.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/install/local.dir
-/home/knight/autonomous_robot/build/cpp_code/CMakeFiles/install/strip.dir

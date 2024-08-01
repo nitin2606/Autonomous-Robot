@@ -1,6 +1,0 @@
-Invoking command in '/home/knight/autonomous_robot/build/cpp_code': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/knight/autonomous_robot/src/cpp_code -DCMAKE_INSTALL_PREFIX=/home/knight/autonomous_robot/install/cpp_code
-Invoked command in '/home/knight/autonomous_robot/build/cpp_code' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/knight/autonomous_robot/src/cpp_code -DCMAKE_INSTALL_PREFIX=/home/knight/autonomous_robot/install/cpp_code
-Invoking command in '/home/knight/autonomous_robot/build/cpp_code': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/knight/autonomous_robot/build/cpp_code -- -j12 -l12
-Invoked command in '/home/knight/autonomous_robot/build/cpp_code' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/knight/autonomous_robot/build/cpp_code -- -j12 -l12
-Invoking command in '/home/knight/autonomous_robot/build/cpp_code': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/knight/autonomous_robot/build/cpp_code
-Invoked command in '/home/knight/autonomous_robot/build/cpp_code' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/knight/autonomous_robot/build/cpp_code
